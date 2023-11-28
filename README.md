@@ -104,8 +104,11 @@ Get help on a specific command
 doit help <command>
 ```
 
+## Related gin repositories 
+_add a reference to our other gin repositories_
 
-### For developers
+
+## For developers
 #### Repository structure
 - **.datalad/** contains config file for datalad
 - **downloaded_data/** contains original data from Zenodo.
