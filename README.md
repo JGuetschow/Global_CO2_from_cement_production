@@ -197,4 +197,4 @@ For that you first need to store your public ssh key on the gin server
 Once you have everything set up you can create a new branch branch and work there. 
 When you're done create a pull request to integrate your work into the main 
 branch. This should be done first on github to allow for discussions and review (gin servers don't have the same review features). Afterwards the changes 
-can be implemented on gin. 
+can be actually merged on gin (so that the annex is merged properly too). 
