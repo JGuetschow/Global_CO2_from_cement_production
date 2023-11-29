@@ -119,7 +119,7 @@ versions = {
     },
 }
 ````
-Then run the two commands `read_version` and `download_version` as described in **Executing the program**. 
+Then run the two commands `read_version` and `download_version` as described in ****. 
 
 ## Help
 Show all doit commands
