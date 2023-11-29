@@ -32,6 +32,8 @@ synchronizing, and version controlling collections of large files.
 - Install [Python](https://www.python.org)
 - [pydoit](https://pydoit.org/install.html)
 
+Note that for [simply downloading the dataset,](#1-easy-access) Python and pydoit are not required.
+
 ## Getting Started
 
 ### Clone the repository
@@ -47,9 +49,10 @@ of the files in the dataset, but not actual *content* of the (sometimes large)
 data files.  
 
 
-### Easy Access
+<h3 id="1-easy-access"> Easy access </h3>
 Users who simply want to retrieve the dataset have the option to access both the
 original and extracted files with
+
 ```
 dataland get <filename>
 ```
@@ -79,7 +82,7 @@ log`` (or a tool that displays Git history) in the dataset or on specific
 files, you can find out what has been done to the dataset or to individual  
 files by whom, and when.
 
-## Contributing
+<h2 id="2-contributing"> Contributing </h2>
 
 For those who wish to contribute to the repository, below we go through the key commands you will need to use. 
 
@@ -126,7 +129,7 @@ versions = {
     },
 }
 ````
-Then run the two commands `read_version` and `download_version` as described in ****. 
+Then run the two commands `read_version` and `download_version` as described in [Contributing](#2-contributing). 
 
 ## Help
 Show all doit commands
