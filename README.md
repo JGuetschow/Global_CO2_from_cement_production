@@ -175,7 +175,6 @@ SSH-access is needed to run this command. Note that _name_ can be freely chosen.
 **Push to the github repository**
 ```
 datalad push --to <name>
-
 ```
 
 ### Issues
