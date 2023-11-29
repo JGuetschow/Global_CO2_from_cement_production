@@ -22,7 +22,6 @@ synchronizing, and version controlling collections of large files.
 ## Installation
 
 - Install datalad according to the [DataLad handbook](https://handbook.datalad.org/en/latest/intro/installation.html). It is recommended to install globally. 
-- DataLad is based on Git. [Git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git) needs to be installed to run DataLad. 
 - Install [Python](https://www.python.org)
 - [pydoit](https://pydoit.org/install.html)
 
