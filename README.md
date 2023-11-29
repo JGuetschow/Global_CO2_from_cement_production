@@ -81,7 +81,7 @@ For those who wish to contribute to the repository, below we go through the key 
 doit setup_env
 ```
 #### <a name="download"></a>Download the version from the command line.
-This will download all files from Zenodo as they are.
+This will download all files from Zenodo as they are for a specific version (note this version must already be in `versions.py`, if you want to add a new version, see the section on adding a new version below).
 ```
 doit download_version --version <YYMMDD>
 ```
