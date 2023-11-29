@@ -6,7 +6,12 @@ The dataset is converted to the PRIMAP2 format and provided in the csv based int
 ## Description
 
 This repository downloads data on global CO2 emissions from cement production from [Zenodo](https://zenodo.org/records/831454).
-The downloaded dataset can then be converted into CSV (.csv file extension) or NetCDF (.nc file extension) format.
+The downloaded dataset can then be converted into CSV (.csv file extension) or NetCDF (.nc file extension) format. Converted data are available for the following versions:
+| v231016 |[Zenodo](https://zenodo.org/records/10008931) |
+| v230913 |[Zenodo](https://zenodo.org/records/8339353) |
+| v230428 |[Zenodo](https://zenodo.org/records/7875557) |
+| v220915 |[Zenodo](https://zenodo.org/records/7081360) |
+| v220516 |[Zenodo](https://zenodo.org/records/6553090) |
 The data management tool [DataLad](http://docs.datalad.org/en/stable/) is used to version control the data sets.
 Commands to run the scripts are executed via the pydoit package.
 
