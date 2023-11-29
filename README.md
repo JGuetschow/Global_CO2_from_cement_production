@@ -72,7 +72,9 @@ log`` (or a tool that displays Git history) in the dataset or on specific
 files, you can find out what has been done to the dataset or to individual  
 files by whom, and when.
 
-## Executing the program
+## Contributing
+
+For those who wish to contribute to the repository, below we go through the key commands you will need to use. 
 
 #### Set up the virtual environment with doit
 ```
