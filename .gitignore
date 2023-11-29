@@ -1,7 +1,6 @@
 __pycache__
 venv
 .doit.db.*
-.doit.db
 .DS_Store
 .idea
 *.ipynb
