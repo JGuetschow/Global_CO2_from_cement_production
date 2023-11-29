@@ -94,7 +94,7 @@ doit read_version --version <YYMMDD>
 
 
 To add a new version go to **versions.py** in the **src** directory and create a new value in the
-dictionary. Fill all the required information similar to the previous entries.
+`versions` dictionary. Fill all the required information similar to the previous entries.
 For example, the value _v230913_ in the _versions_ dictionary describes the 13-Sep-2023 release.
 ````python
 versions = {
