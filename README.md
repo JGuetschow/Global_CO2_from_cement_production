@@ -188,7 +188,7 @@ As we have a datalad repository using github and gin the process of contributing
 pure git repositories. As the data is only stored on gin, the gin repository is the source to start 
 from. As gin currently has a problem with forks (the annexed data is not 
 forked) we have to use branches for development and, thus, to contribute you
-first need to contact the maintainers to get write access to the repository.
+first need to contact the maintainers to get write access to the gin repository.
 You have to clone the repository using ssh to be able to push to it. 
 For that you first need to store your public ssh key on the gin server 
 (settings -> SSH Keys). 
