@@ -12,11 +12,11 @@ time_format: '%Y'
 dimensions:
   '*':
   - time
-  - provenance
   - category (IPCC2006)
-  - area (ISO3)
   - source
+  - area (ISO3)
   - scenario (PRIMAP)
+  - provenance
   - entity
   - unit
 data_file: Robbie_Andrew_Cement_Production_CO2_230913.csv
