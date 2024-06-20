@@ -1,6 +1,48 @@
 # configurations for the different versions. mainly metadata
 
 versions = {
+    "v240517": {
+        "date": "17-May-2024",
+        "ver_str_long": "version 240517",
+        "ver_str_short": "240517",
+        "folder": "v240517",
+        "transpose": False,
+        "filename": "0. GCP-CEM.csv",
+        "ref": "10.5281/zenodo.11207133",
+        "ref2": "10.5194/essd-11-1675-2019",
+        "title": "Global CO2 emissions from cement production",
+        "institution": "CICERO - Center for International Climate Research",
+        "filter_keep": {},
+        "filter_remove": {},
+        "contact": "johannes.guetschow@climate-resource.com",
+        "comment": (
+            "Published by Robbie Andrew, converted to PRIMAP2 format by "
+            "Johannes Gütschow"
+        ),
+        "unit": "kt * CO2 / year",
+        "country_code": True,
+    },
+    "v240226": {
+        "date": "26-Feb-2024",
+        "ver_str_long": "version 240226",
+        "ver_str_short": "240326",
+        "folder": "v240226",
+        "transpose": False,
+        "filename": "0. GCP-CEM.csv",
+        "ref": "10.5281/zenodo.10707604",
+        "ref2": "10.5194/essd-11-1675-2019",
+        "title": "Global CO2 emissions from cement production",
+        "institution": "CICERO - Center for International Climate Research",
+        "filter_keep": {},
+        "filter_remove": {},
+        "contact": "johannes.guetschow@climate-resource.com",
+        "comment": (
+            "Published by Robbie Andrew, converted to PRIMAP2 format by "
+            "Johannes Gütschow"
+        ),
+        "unit": "kt * CO2 / year",
+        "country_code": True,
+    },
     "v231222": {
         "date": "22-Dec-2023",
         "ver_str_long": "version 231222",
